@@ -3,3 +3,4 @@ test-python-installation.py
 QuantEcon.py/
 EDSPlot/
 .ipynb_checkpoints/
+*.tmp
